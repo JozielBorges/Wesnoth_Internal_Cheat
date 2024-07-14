@@ -1,0 +1,1 @@
+# Wesnoth_Internal_Example
